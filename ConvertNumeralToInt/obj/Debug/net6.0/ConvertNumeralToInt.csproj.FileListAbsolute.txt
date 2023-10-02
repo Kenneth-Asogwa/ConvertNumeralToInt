@@ -1,0 +1,14 @@
+C:\Users\K_Asogwa\source\repos\ConvertNumeralToInt\obj\Debug\net6.0\ConvertNumeralToInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Asogwa\source\repos\ConvertNumeralToInt\obj\Debug\net6.0\ConvertNumeralToInt.AssemblyInfoInputs.cache
+C:\Users\K_Asogwa\source\repos\ConvertNumeralToInt\obj\Debug\net6.0\ConvertNumeralToInt.AssemblyInfo.cs
+C:\Users\K_Asogwa\source\repos\ConvertNumeralToInt\obj\Debug\net6.0\ConvertNumeralToInt.csproj.CoreCompileInputs.cache
+C:\Users\K_Asogwa\source\repos\ConvertNumeralToInt\bin\Debug\net6.0\ConvertNumeralToInt.exe
+C:\Users\K_Asogwa\source\repos\ConvertNumeralToInt\bin\Debug\net6.0\ConvertNumeralToInt.deps.json
+C:\Users\K_Asogwa\source\repos\ConvertNumeralToInt\bin\Debug\net6.0\ConvertNumeralToInt.runtimeconfig.json
+C:\Users\K_Asogwa\source\repos\ConvertNumeralToInt\bin\Debug\net6.0\ConvertNumeralToInt.dll
+C:\Users\K_Asogwa\source\repos\ConvertNumeralToInt\bin\Debug\net6.0\ConvertNumeralToInt.pdb
+C:\Users\K_Asogwa\source\repos\ConvertNumeralToInt\obj\Debug\net6.0\ConvertNumeralToInt.dll
+C:\Users\K_Asogwa\source\repos\ConvertNumeralToInt\obj\Debug\net6.0\refint\ConvertNumeralToInt.dll
+C:\Users\K_Asogwa\source\repos\ConvertNumeralToInt\obj\Debug\net6.0\ConvertNumeralToInt.pdb
+C:\Users\K_Asogwa\source\repos\ConvertNumeralToInt\obj\Debug\net6.0\ConvertNumeralToInt.genruntimeconfig.cache
+C:\Users\K_Asogwa\source\repos\ConvertNumeralToInt\obj\Debug\net6.0\ref\ConvertNumeralToInt.dll
